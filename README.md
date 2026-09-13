@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hey, I'm Devon (@devonml325) 👋
 
-<!--
-**devonml325/devonml325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a London-based data analyst. Mostly spend work hours turning messy database dumps into clean reports, and free time tinkering with local analytics stacks.
 
-Here are some ideas to get you started:
+**Current focus:**
+- Benchmarking DuckDB queries against standard Pandas workflows.
+- Automating repetitive ETL jobs with plain Python scripts.
+- Leveling up analytical SQL optimization on Postgres.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Daily tools:**
+- **Core:** Python, SQL, Jupyter
+- **Data processing:** Pandas, NumPy, DuckDB, PostgreSQL
+
+**Get in touch:**
+- Ping me on [LinkedIn](https://linkedin.com) or open an issue on any repo here. Always happy to chat data pipelines or SQL quirks.
